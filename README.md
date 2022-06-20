@@ -1,2 +1,4 @@
-# Estudos-Kotlin
-Anotações de cursos sobre Kotlin
+# Kotlin 📚
+
+## Sintaxe Básica
+#### Declaração de Variáveis
